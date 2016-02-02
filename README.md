@@ -1,7 +1,7 @@
-[![Code Climate](https://codeclimate.com/github/katzer/cordova-plugin-email-composer/badges/gpa.svg)](https://codeclimate.com/github/katzer/cordova-plugin-email-composer)
+[![Code Climate](https://codeclimate.com/github/ConnectCorp/cordova-plugin-email-composer/badges/gpa.svg)](https://codeclimate.com/github/ConnectCorp/cordova-plugin-email-composer)
 
 <p align="right">
-    <a href="https://github.com/katzer/cordova-plugin-email-composer/tree/example">EXAMPLE :point_right:</a>
+    <a href="https://github.com/ConnectCorp/cordova-plugin-email-composer/tree/example">EXAMPLE :point_right:</a>
 </p>
 
 Cordova Email Plugin
@@ -41,23 +41,23 @@ The plugin can either be installed from git repository, from local file system t
 From master:
 ```bash
 # ~~ from master branch ~~
-cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+cordova plugin add https://github.com/ConnectCorp/cordova-plugin-email-composer.git
 ```
 from a local folder:
 ```bash
 # ~~ local folder ~~
-cordova plugin add de.appplant.cordova.plugin.email-composer --searchpath path/to/plugin
+cordova plugin add com.connect.cordova.plugin.email-composer --searchpath path/to/plugin
 ```
 or to use the last stable version:
 ```bash
 # ~~ stable version ~~
-cordova plugin add de.appplant.cordova.plugin.email-composer@0.8.2
+cordova plugin add com.connect.cordova.plugin.email-composer@0.8.2
 ```
 
 ### PhoneGap Build
 Add the following xml to your config.xml to always use the latest version of this plugin:
 ```xml
-<gap:plugin name="de.appplant.cordova.plugin.email-composer" version="0.8.2" />
+<gap:plugin name="com.connect.cordova.plugin.email-composer" version="0.8.2" />
 ```
 More informations can be found [here][PGB_plugin].
 
@@ -340,7 +340,7 @@ This software is released under the [Apache 2.0 License][apache2_license].
 [PGB]: http://docs.build.phonegap.com/en_US/index.html
 [PGB_plugin]: https://build.phonegap.com/plugins/2055
 [messageui_framework]: #compile-error-on-ios
-[changelog]: https://github.com/katzer/cordova-plugin-email-composer/blob/master/CHANGELOG.md
+[changelog]: https://github.com/ConnectCorp/cordova-plugin-email-composer/blob/master/CHANGELOG.md
 [available]: #determine-if-the-device-is-capable-to-send-emails
 [open]: #open-a-pre-filled-email-draft
 [email_app]: #specify-email-app
