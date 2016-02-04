@@ -89,11 +89,11 @@
 
         <source-file
             src="src/android/EmailComposer.java"
-            target-dir="src/com.connect/cordova/emailcomposer" />
+	    target-dir="src/com/connect/cordova/emailcomposer" />
 
         <source-file
             src="src/android/EmailComposerImpl.java"
-            target-dir="src/com.connect/cordova/emailcomposer" />
+	    target-dir="src/com/connect/cordova/emailcomposer" />
 
     </platform>
 
@@ -113,11 +113,11 @@
 
         <source-file
             src="src/android/EmailComposer.java"
-            target-dir="src/com.connect/cordova/emailcomposer" />
+	    target-dir="src/com/connect/cordova/emailcomposer" />
 
         <source-file
             src="src/android/EmailComposerImpl.java"
-            target-dir="src/com.connect/cordova/emailcomposer" />
+	    target-dir="src/com/connect/cordova/emailcomposer" />
 
     </platform>
 
