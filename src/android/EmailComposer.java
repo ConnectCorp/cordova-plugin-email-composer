@@ -19,7 +19,7 @@
     under the License.
 */
 
-package de.appplant.cordova.emailcomposer;
+package com.connect.cordova.emailcomposer;
 
 import android.content.Context;
 import android.content.Intent;

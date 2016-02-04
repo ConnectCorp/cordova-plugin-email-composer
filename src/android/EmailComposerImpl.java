@@ -21,7 +21,7 @@
  * @APPPLANT_LICENSE_HEADER_END@
  */
 
-package de.appplant.cordova.emailcomposer;
+package com.connect.cordova.emailcomposer;
 
 import android.accounts.AccountManager;
 import android.content.Context;
